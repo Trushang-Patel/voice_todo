@@ -3,10 +3,15 @@
 #
 
 list(APPEND FLUTTER_PLUGIN_LIST
+<<<<<<< HEAD
   cloud_firestore
   connectivity_plus
   firebase_core
   flutter_tts
+=======
+  flutter_tts
+  permission_handler_windows
+>>>>>>> e0451debfdad4dd3a533898212d55c15b49dfbf8
 )
 
 list(APPEND FLUTTER_FFI_PLUGIN_LIST
